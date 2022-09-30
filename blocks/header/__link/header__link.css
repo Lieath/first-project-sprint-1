@@ -1,12 +1,5 @@
 .header__link {
-  position: absolute;
-  bottom: 3px;
-  left: 130px;
-  height: 25px;
-  width: 388px;
-  font-size: 18px;
-  font-weight: normal;
+  display: contents;
   color: #2f80ed;
   text-decoration-line: none;
-  z-index: 1;
 }
